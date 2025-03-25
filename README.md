@@ -13,7 +13,7 @@ Hello! I'm DaBu, a passionate developer with a love for coding and problem-solvi
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# Logo" width="30"/> Experienced in building applications and games using .NET.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# Logo" width="50"/> Experienced in building applications and games using .NET.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="30"/> Proficient in system programming and game development.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="30"/> Knowledgeable in low-level programming and embedded systems.
 

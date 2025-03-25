@@ -13,15 +13,15 @@ Hello! I'm DaBu, a passionate developer with a love for coding and problem-solvi
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-- **C#**: ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Csharp_Logo.png) Experienced in building applications and games using .NET.
-- **C++**: ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) Proficient in system programming and game development.
-- **C**: ![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/C_Programming_Language.svg) Knowledgeable in low-level programming and embedded systems.
+- **C#**: <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Csharp_Logo.png" alt="C# Logo" width="30"/> Experienced in building applications and games using .NET.
+- **C++**: <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++ Logo" width="30"/> Proficient in system programming and game development.
+- **C**: <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/C_Programming_Language.svg" alt="C Logo" width="30"/> Knowledgeable in low-level programming and embedded systems.
 
 ### Web Development
-- **HTML**: ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) Skilled in creating structured web pages.
-- **CSS**: ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) Experienced in styling and responsive design.
-- **JavaScript**: ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/JavaScript-logo.png) Proficient in building interactive web applications.
-- **PHP**: ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) Knowledgeable in server-side scripting and web development.
+- **HTML**: <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30"/> Skilled in creating structured web pages.
+- **CSS**: <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="30"/> Experienced in styling and responsive design.
+- **JavaScript**: <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/JavaScript-logo.png" alt="JavaScript Logo" width="30"/> Proficient in building interactive web applications.
+- **PHP**: <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="30"/> Knowledgeable in server-side scripting and web development.
 
 ## 📈 GitHub Stats
 
@@ -35,4 +35,4 @@ Here are some of my notable projects:
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or follow me on Twitter [@your_twitter_handle](https://twitter.com/your_twitter_handle).
 
-Thank you for visiting my profile! Let's connect and collaborate!
+Thank you for visiting my profile! Let's connect and collaborate! 🚀

@@ -30,10 +30,6 @@ Hello! I'm [Your Name], a passionate developer with a love for coding and proble
 
 Here are some of my notable projects:
 
-- **[Project Name 1](https://github.com/YourGitHubUsername/Project1)**: A brief description of what this project does.
-- **[Project Name 2](https://github.com/YourGitHubUsername/Project2)**: A brief description of what this project does.
-- **[Project Name 3](https://github.com/YourGitHubUsername/Project3)**: A brief description of what this project does.
-
 ## 📫 Get in Touch
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or follow me on Twitter [@your_twitter_handle](https://twitter.com/your_twitter_handle).

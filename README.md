@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm [Your Name], a passionate developer with a love for coding and problem-solving. I enjoy working with various programming languages and technologies, and I'm always eager to learn more.
+Hello! I'm DaBu, a passionate developer with a love for coding and problem-solving. I enjoy working with various programming languages and technologies, and I'm always eager to learn more.
 
 ## 🌍 About Me
 

@@ -5,7 +5,7 @@ Hello! I'm DaBu, a passionate developer with a love for coding and problem-solvi
 ## 🌍 About Me
 
 - 🔭 I’m currently working on personal projects and contributing to open-source.
-- 🌱 I’m currently learning more about advanced algorithms and data structures.
+- 🌱 I’m currently learning more about advanced algorithms, data structures and microcontrollers.
 - 💻 I primarily use Linux for my development work.
 - 💬 Ask me about C#, C++, C, HTML, CSS, PHP, and JavaScript!
 - 📫 How to reach me: [davor.orehovec2005@gmail.com](mailto:davor.orehovec2005@gmail.com)
